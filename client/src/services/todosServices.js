@@ -1,6 +1,6 @@
 import axios from 'axios'
 
-const URL='http://localhost:3000'
+const URL='https://nadi.vercel.app'
 
 //POST login by address http://localhost:3000/api/user/login
 export const login=(user,password) =>{
